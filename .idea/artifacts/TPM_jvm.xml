@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TPM-jvm">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="TPM-jvm.jar">
+      <element id="module-output" name="TPM.jvmMain" />
+    </root>
+  </artifact>
+</component>
